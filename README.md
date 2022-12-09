@@ -1,3 +1,3 @@
 # codewars
 
-alunos: Caio Miranda e João Effting
+Alunos: Caio Miranda e João Effting
