@@ -1,5 +1,6 @@
 # Codewars
 
-Find the odd int
-
 Alunos: Caio Miranda e João Effting
+
+Desafio -> Find the odd int
+
